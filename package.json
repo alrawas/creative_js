@@ -1,0 +1,24 @@
+{
+  "name": "creative_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alrawas/creative_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alrawas/creative_js/issues"
+  },
+  "homepage": "https://github.com/alrawas/creative_js#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0"
+  }
+}
